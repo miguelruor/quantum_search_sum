@@ -1,6 +1,4 @@
-# QOSF Mentorship Program
-
-## Task 1:
+## Task:
 
 Given a positive integer and a list of prime numbers, look for the two prime numbers, that sum the positive number. Consider an appropriate number of qubits and explain why your proposal is valid for all kinds of numbers in case.
 
